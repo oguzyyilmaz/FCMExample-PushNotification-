@@ -1,1 +1,1 @@
-FCM Push Notification Sample
+You need the google-services.json file at https://console.firebase.google.com/ to implement FCM push notification.
